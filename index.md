@@ -8,15 +8,15 @@ Public-health decisions increasingly depend on converting genomic data into acti
 **Publications:** <https://scholar.google.com/citations?user=Kty5i3wAAAAJ>
 
 ## Selected Projects
-- **TB amplicon sequencing** \
-  Development of whole-genome tiling amplicon for _Mycobacterium tuberculosis_, enabling rapid sequencing and drug resistance profiling from patient sputum without cloning \
-  [github](https://github.com/cck42/YSPH_TBseq)  /
-  [Kalinich et al, biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.12.19.629550v1)
-
 - **RSV genomic surveillance** \
   Establishment of sample-to-sequence surveillance of RSV from the Yale New Haven Health system; facilitating unique insights into local age-stratified transmission dynamics in Connecticut, USA\
   [github](https://github.com/sethnr/YSPH_RSV)
   
+- **Bacterial amplicon sequencing** \
+  Development of whole-genome tiling amplicon for _Mycobacterium tuberculosis_, enabling rapid sequencing and drug resistance profiling from patient sputum without cloning \
+  [github](https://github.com/cck42/YSPH_TBseq)  /
+  [Kalinich et al, biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.12.19.629550v1)
+
 - **_Aedes aegypti_ contemporary migration and resistance** \
   Population genomic investigations into the dengue vector Aedes aegypti, uncovering extensive global migration and spread of pyrethroid resistance \
   [github](https://github.com/sethnr/Aaeg1200g_admixture_resistance) /
