@@ -1,3 +1,6 @@
 title: Seth Redmond
 description: Translational pathogen genomics & population genetics
-theme: slate
+theme: jekyll-theme-slate
+author: Seth Redmond
+url: "https://sethnr.github.io"
+github_username: sethnr
