@@ -1,4 +1,4 @@
-**Translational pathogen genomics · Population genetics · Infectious disease bioinformatics**
+**Pathogen genomics · Population genetics · Translational bioinformatics**
 
 I develop and apply genomic methods that bridge research and implementation—from **culture-free TB sequencing** and **amplicon resistance prediction** to **vector and respiratory pathogen evolution**.
 Public-health decisions increasingly depend on converting genomic data into actionable evidence. I build and operationalize sequencing and analytic frameworks that turn pathogen and vector genomics into decision-grade inputs for surveillance, intervention planning, and disease control — in both global-health and U.S. public-health settings.
