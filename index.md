@@ -5,7 +5,9 @@ Public-health decisions increasingly depend on converting genomic data into acti
 
 **GitHub:** <https://github.com/sethnr> \
 **LinkedIn:** <https://www.linkedin.com/in/sethnr/> \
-**Publications:** <https://scholar.google.com/citations?user=Kty5i3wAAAAJ>
+**Publications:** <https://scholar.google.com/citations?user=Kty5i3wAAAAJ> \
+**Resume** [resume.pdf](https://raw.githubusercontent.com/sethnr.github.io/SethRedmond_resume_rwe.pdf)
+
 
 ## Selected Projects
 - **RSV genomic surveillance** \
