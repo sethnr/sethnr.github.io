@@ -1,7 +1,8 @@
 **Pathogen genomics · Population genetics · Translational bioinformatics**
 
-I develop and apply genomic methods that bridge research and implementation—from **culture-free TB sequencing** and **amplicon resistance prediction** to **vector and respiratory pathogen evolution**.
-Public-health decisions increasingly depend on converting genomic data into actionable evidence. I build and operationalize sequencing and analytic frameworks that turn pathogen and vector genomics into decision-grade inputs for surveillance, intervention planning, and disease control — in both global-health and U.S. public-health settings.
+Public-health decisions increasingly depend on converting genomic data into actionable evidence. I develop and apply genomic methods that bridge research and implementation, including **culture-free TB sequencing** and **resistance prediction** to **respiratory pathogen surveillance** and **vector evolution and population genetics**.
+
+I build and operationalize enabling sequencing technologies and analytic frameworks that enable genomic epidemiology to be implemented at scale in both U.S. public-health and global-health domains. My work aims to turn pathogen and vector genomics into decision-grade inputs for surveillance, intervention planning, and disease control.
 
 **GitHub:** <https://github.com/sethnr> \
 **LinkedIn:** <https://www.linkedin.com/in/sethnr/> \
