@@ -17,19 +17,19 @@ My work focuses on turning pathogen and vector genomics into **decision-grade in
 Tuberculosis sequencing remains slow and infrastructure-intensive. Culture-based workflows introduce significnt delay and are poorly suited to resistance profiling in high-burden settings, limiting timely treatment decisions.
 
 **What I built**  
-A **tiled whole-genome amplicon sequencing** approach for *Mycobacterium tuberculosis* that enables sequencing and resistance prediction **directly from patient sputum**, without a culture step.
+A **tiled amplicon sequencing** approach for *Mycobacterium tuberculosis* that enables whole-genome sequencing **directly from patient sputum**, without an intermediate culture step.
 
 **Why it matters**  
-- Shortens time from sample to resistance profile  
-- Enables sequencing where culture capacity is limited  
+- Generates high genome coverage from uncultured sputum, from even highly metagenomic samples
+- Shortens time from sample to drug resistance profile, and could enable treatment tailoring
 - Supports scalable, programmatic drug-resistance surveillance
 
-![TB amplicon panel – placeholder](images/tb_amplicon_placeholder.png)
+<img src="/pub_figures/Kalinich_Figure1.png" alt="Kalinich et al, JCM 2025 Fig 1" width="500"/>
+
 
 **Links**  
-- [github](https://github.com/cck42/YSPH_TBseq) 
-- [Kalinich et al, biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.12.19.629550v1)
-
+- [github](https://github.com/cck42/YSPH_TBseq) / [Kalinich et al, biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.12.19.629550v1)
+  
 ---
 
 ### RSV genomic surveillance in a hospital-linked system
@@ -53,21 +53,21 @@ An end-to-end RSV genomic surveillance system integrated with a major hospital n
 ### Global migration and insecticide resistance in *Aedes aegypti*
 
 **Context**  
-Vector control strategies often assume geographically stable mosquito populations, even as resistance spreads rapidly and intervention effectiveness declines.
+Vector control strategies often assume geographically stable and genetically homogeneous mosquito populations, even as resistance spreads rapidly and intervention effectiveness declines.
 
 **What I built**  
-Population genomic analyses to resolve **contemporary migration patterns** and track the global spread of **pyrethroid resistance alleles** in *Aedes aegypti*.
+Population admixture analyses to resolve **contemporary migration patterns** and track the global spread of **pyrethroid resistance alleles** in *Aedes aegypti*.
 
 **Why it matters**  
-- Reveals extensive international mosquito movement  
-- Explains rapid dissemination of resistance variants  
+- Reveals extensive contemporary mosquito migration, explaining the rapid dissemination of resistance variants
+- Shows occurence of admixed mosquito populations in African regions with the heaviest dengue burden
 - Informs resistance management, insecticide policy, and intervention planning
 
-![Aedes migration map – placeholder](images/aedes_migration_placeholder.png)
+<img src="/pub_figures/Crawford_Figure4.png" alt="Crawford et al, Science 2025 Fig 4" width="500"/>
 
 **Links**  
-- [github](https://github.com/sethnr/Aaeg1200g_admixture_resistance)
-- [Crawford et al, Science 2025](https://www.science.org/doi/10.1126/science.ads3732) 
+- [github](https://github.com/sethnr/Aaeg1200g_admixture_resistance) / [Crawford et al, Science 2025](https://www.science.org/doi/10.1126/science.ads3732) 
+
 
 ---
 
@@ -77,18 +77,17 @@ Population genomic analyses to resolve **contemporary migration patterns** and t
 As malaria transmission declines, elimination efforts increasingly depend on identifying **who is infecting whom** and distinguishing local transmission from importation—questions that traditional epidemiology alone cannot resolve.
 
 **What I built**  
-Genomic epidemiology methods combining wet-lab and computational approaches to infer **individual-level transmission networks** for *Plasmodium falciparum*.
+Genomic epidemiology methods combining wet-lab and computational approaches to increase variant calling fidelity and infer **individual-level transmission networks** for *Plasmodium falciparum*.
 
 **Why it matters**  
-- Enables reconstruction of transmission networks at fine scale  
-- Supports evaluation of intervention impact  
-- Provides tools for targeting control efforts in elimination settings
+- Enables reconstruction of transmission networks at fine scale
+- Shows the independent transmission of multiple clonal lineages through the dry season
+- Illustrates for the first time that genetic distance can be used for epidemiological inference in *Plasmodium falciparum*  
 
-![Malaria transmission networks – placeholder](images/malaria_network_placeholder.png)
+<img src="/pub_figures/Redmond_Figure4.png" alt="Redmond et al, MBE 2018 Fig 4" width="400"/>
 
 **Links**  
-- [github](https://github.com/sethnr/HSPH_Pf_transmission_networks)
-- [Redmond et al, Mol Bio Evo 2018](https://academic.oup.com/mbe/article/35/7/1678/4962453)
+[github](https://github.com/sethnr/HSPH_Pf_transmission_networks) / [Redmond et al, Mol Bio Evo 2018](https://academic.oup.com/mbe/article/35/7/1678/4962453)
 
 ---
 
