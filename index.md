@@ -1,35 +1,130 @@
-**Pathogen genomics · Population genetics · Translational bioinformatics**
+# Seth N Redmond, PhD  
+## Pathogen genomics, disease surveillance, and decision-grade real-world evidence
 
-Public-health decisions increasingly depend on converting genomic data into actionable evidence. I develop and apply genomic methods that bridge research and implementation, including **culture-free TB sequencing** and **resistance prediction** to **respiratory pathogen surveillance** and **vector evolution and population genetics**.
+Public-health and biomedical decisions increasingly depend on converting genomic data into **actionable evidence**.  
+I develop and implement genomic methods that bridge research and real-world use, spanning **culture-free TB sequencing and resistance prediction**, **respiratory pathogen surveillance**, and **vector and malaria population genomics**.
 
-I build and operationalize enabling sequencing technologies and analytic frameworks that enable genomic epidemiology to be implemented at scale in both U.S. public-health and global-health domains. My work aims to turn pathogen and vector genomics into decision-grade inputs for surveillance, intervention planning, and disease control.
+My work focuses on turning pathogen and vector genomics into **decision-grade inputs** for surveillance, intervention planning, and disease control—across both **pharma / real-world evidence** and **global health implementation** contexts.
 
-**GitHub:** <https://github.com/sethnr> \
-**LinkedIn:** <https://www.linkedin.com/in/sethnr/> \
-**Publications:** <https://scholar.google.com/citations?user=Kty5i3wAAAAJ> \
-**Resume** [download (PDF)](https://raw.githubusercontent.com/sethnr/sethnr.github.io/main/SethRedmond_resume_rwe.pdf)
+**Applied across**
+- **Pharma & RWE:** resistance biomarkers, genomic surveillance, post-licensure monitoring  
+- **Global health:** national surveillance systems, vector control strategy, TB and malaria program support
 
+---
 
+## Portfolio: Selected Work
 
-## Selected Projects
-- **RSV genomic surveillance** \
-  Establishment of sample-to-sequence surveillance of RSV from the Yale New Haven Health system; facilitating unique insights into local age-stratified transmission dynamics in Connecticut, USA\
-  [github](https://github.com/sethnr/YSPH_RSV)
-  
-- **Bacterial amplicon sequencing** \
-  Development of whole-genome tiling amplicon for _Mycobacterium tuberculosis_, enabling rapid sequencing and drug resistance profiling from patient sputum without cloning \
-  [github](https://github.com/cck42/YSPH_TBseq)  /
-  [Kalinich et al, biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.12.19.629550v1)
+### Culture-free TB whole-genome amplicon sequencing
 
-- **_Aedes aegypti_ contemporary migration and resistance** \
-  Population genomic investigations into the dengue vector Aedes aegypti, uncovering extensive global migration and spread of pyrethroid resistance \
-  [github](https://github.com/sethnr/Aaeg1200g_admixture_resistance) /
-  [Crawford et al, Science 2025](https://www.science.org/doi/10.1126/science.ads3732) 
-  
-- **Plasmodium falciparum transmission network inference** \
-  Genomic epidemiology computational and wetlab methods development to enable inference of individual level transmission networks for _P. falciparum_ \
-  [github](https://github.com/sethnr/HSPH_Pf_transmission_networks) /
-  [Redmond et al, Mol Bio Evo 2018](https://academic.oup.com/mbe/article/35/7/1678/4962453)
+**Context**  
+Tuberculosis sequencing remains slow and infrastructure-intensive. Culture-based workflows introduce significnt delay and are poorly suited to resistance profiling in high-burden settings, limiting timely treatment decisions.
 
+**What I built**  
+A **tiled whole-genome amplicon sequencing** approach for *Mycobacterium tuberculosis* that enables sequencing and resistance prediction **directly from patient sputum**, without a culture step.
 
+**Why it matters**  
+- Shortens time from sample to resistance profile  
+- Enables sequencing where culture capacity is limited  
+- Supports scalable, programmatic drug-resistance surveillance
 
+![TB amplicon panel – placeholder](images/tb_amplicon_placeholder.png)
+
+**Links**  
+- [github](https://github.com/cck42/YSPH_TBseq) 
+- [Kalinich et al, biorxiv 2024](https://www.biorxiv.org/content/10.1101/2024.12.19.629550v1)
+
+---
+
+### RSV genomic surveillance in a hospital-linked system
+
+**Context**  
+With the rollout of RSV monoclonal antibodies and vaccines, the limiting factor is no longer the availability of interventions, but the **ability to target them effectively**. Local transmission dynamics and age-structured spread are poorly resolved by routine surveillance.
+
+**What I built**  
+An end-to-end RSV genomic surveillance system integrated with a major hospital network, linking viral sequencing with epidemiological metadata from routine clinical sampling.
+
+**Why it matters**  
+- Resolves fine-scale, local RSV transmission patterns  
+- Provides age-specific insights relevant to mAb and vaccine targeting  
+- Demonstrates a scalable model for linking clinical care and genomic surveillance
+
+**Links**  
+- [github](https://github.com/sethnr/YSPH_RSV)
+
+---
+
+### Global migration and insecticide resistance in *Aedes aegypti*
+
+**Context**  
+Vector control strategies often assume geographically stable mosquito populations, even as resistance spreads rapidly and intervention effectiveness declines.
+
+**What I built**  
+Population genomic analyses to resolve **contemporary migration patterns** and track the global spread of **pyrethroid resistance alleles** in *Aedes aegypti*.
+
+**Why it matters**  
+- Reveals extensive international mosquito movement  
+- Explains rapid dissemination of resistance variants  
+- Informs resistance management, insecticide policy, and intervention planning
+
+![Aedes migration map – placeholder](images/aedes_migration_placeholder.png)
+
+**Links**  
+- [github](https://github.com/sethnr/Aaeg1200g_admixture_resistance)
+- [Crawford et al, Science 2025](https://www.science.org/doi/10.1126/science.ads3732) 
+
+---
+
+### Malaria transmission network inference
+
+**Context**  
+As malaria transmission declines, elimination efforts increasingly depend on identifying **who is infecting whom** and distinguishing local transmission from importation—questions that traditional epidemiology alone cannot resolve.
+
+**What I built**  
+Genomic epidemiology methods combining wet-lab and computational approaches to infer **individual-level transmission networks** for *Plasmodium falciparum*.
+
+**Why it matters**  
+- Enables reconstruction of transmission networks at fine scale  
+- Supports evaluation of intervention impact  
+- Provides tools for targeting control efforts in elimination settings
+
+![Malaria transmission networks – placeholder](images/malaria_network_placeholder.png)
+
+**Links**  
+- [github](https://github.com/sethnr/HSPH_Pf_transmission_networks)
+- [Redmond et al, Mol Bio Evo 2018](https://academic.oup.com/mbe/article/35/7/1678/4962453)
+
+---
+
+## What I Build
+
+My work centres on **operational systems**, not isolated analyses:
+
+- End-to-end genomic surveillance pipelines (sample → sequence → insight)  
+- Culture-free and rapid resistance diagnostics  
+- Population-genetic inference for intervention planning  
+- Scalable analytics for real-world and public-health data
+
+---
+
+## Where This Fits in Decision-Making
+
+Across projects, genomics is used to support decisions such as:
+
+- Faster treatment selection through resistance prediction  
+- Improved timing and targeting of vaccines, mAbs, and vector control  
+- Evaluation of program impact and surveillance effectiveness  
+- Translation of genomic data into policy-relevant evidence
+
+---
+
+## Publications & Links
+
+- **GitHub:** https://github.com/sethnr  
+- **Google Scholar:** https://scholar.google.com/citations?user=Kty5i3wAAAAJ  
+- **LinkedIn:** https://www.linkedin.com/in/sethnr/  
+
+---
+
+## Contact
+
+I’m interested in roles and collaborations spanning **pharma / biotech**, **real-world evidence**, and **global health**, particularly where genomics informs real-world decisions.
