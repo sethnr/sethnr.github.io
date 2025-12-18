@@ -17,7 +17,7 @@ My work focuses on turning pathogen and vector genomics into **decision-grade in
 Tuberculosis sequencing remains slow and infrastructure-intensive. Culture-based workflows introduce significnt delay and are poorly suited to resistance profiling in high-burden settings, limiting timely treatment decisions.
 
 **What I built**  
-A **tiled amplicon sequencing** approach for *Mycobacterium tuberculosis* that enables whole-genome sequencing **directly from patient sputum**, without an intermediate culture step.
+A tiled amplicon sequencing approach for *Mycobacterium tuberculosis* that enables whole-genome sequencing directly from patient sputum, without an intermediate culture step.
 
 **Why it matters**  
 - Generates high genome coverage from uncultured sputum, from even highly metagenomic samples
@@ -35,7 +35,7 @@ A **tiled amplicon sequencing** approach for *Mycobacterium tuberculosis* that e
 ### RSV genomic surveillance in a hospital-linked system
 
 **Context**  
-With the rollout of RSV monoclonal antibodies and vaccines, the limiting factor is no longer the availability of interventions, but the **ability to target them effectively**. Local transmission dynamics and age-structured spread are poorly resolved by routine surveillance.
+With the rollout of RSV monoclonal antibodies and vaccines, the limiting factor is no longer the availability of interventions, but the ability to target them effectively. Local transmission dynamics and age-structured spread are poorly resolved by routine surveillance.
 
 **What I built**  
 An end-to-end RSV genomic surveillance system integrated with a major hospital network, linking viral sequencing with epidemiological metadata from routine clinical sampling.
@@ -56,7 +56,7 @@ An end-to-end RSV genomic surveillance system integrated with a major hospital n
 Vector control strategies often assume geographically stable and genetically homogeneous mosquito populations, even as resistance spreads rapidly and intervention effectiveness declines.
 
 **What I built**  
-Population admixture analyses to resolve **contemporary migration patterns** and track the global spread of **pyrethroid resistance alleles** in *Aedes aegypti*.
+Population admixture analyses to resolve contemporary migration patterns and track the global spread of pyrethroid resistance alleles in *Aedes aegypti*.
 
 **Why it matters**  
 - Reveals extensive contemporary mosquito migration, explaining the rapid dissemination of resistance variants
@@ -74,10 +74,10 @@ Population admixture analyses to resolve **contemporary migration patterns** and
 ### Malaria transmission network inference
 
 **Context**  
-As malaria transmission declines, elimination efforts increasingly depend on identifying **who is infecting whom** and distinguishing local transmission from importation—questions that traditional epidemiology alone cannot resolve.
+As malaria transmission declines, elimination efforts increasingly depend on identifying who is infecting whom and distinguishing local transmission from importation—questions that traditional epidemiology alone cannot resolve.
 
 **What I built**  
-Genomic epidemiology methods combining wet-lab and computational approaches to increase variant calling fidelity and infer **individual-level transmission networks** for *Plasmodium falciparum*.
+Genomic epidemiology methods combining wet-lab and computational approaches to increase variant calling fidelity and infer individual-level transmission networks for *Plasmodium falciparum*.
 
 **Why it matters**  
 - Enables reconstruction of transmission networks at fine scale
@@ -115,9 +115,9 @@ Across projects, genomics is used to support decisions such as:
 
 ## Publications & Links
 
-- **GitHub:** https://github.com/sethnr  
-- **Google Scholar:** https://scholar.google.com/citations?user=Kty5i3wAAAAJ  
-- **LinkedIn:** https://www.linkedin.com/in/sethnr/  
+- **GitHub:** [https://github.com/sethnr]
+- **Google Scholar:** [https://scholar.google.com/citations?user=Kty5i3wAAAAJ]  
+- **LinkedIn:** [https://www.linkedin.com/in/sethnr/]
 
 ---
 
