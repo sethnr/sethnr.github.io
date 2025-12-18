@@ -1,6 +1,3 @@
-# Seth N Redmond, PhD  
-## Pathogen genomics, disease surveillance, and decision-grade real-world evidence
-
 Public-health and biomedical decisions increasingly depend on converting genomic data into **actionable evidence**.  
 I develop and implement genomic methods that bridge research and real-world use, spanning **culture-free TB sequencing and resistance prediction**, **respiratory pathogen surveillance**, and **vector and malaria population genomics**.
 
