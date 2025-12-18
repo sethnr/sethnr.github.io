@@ -14,7 +14,7 @@ My work focuses on turning pathogen and vector genomics into **decision-grade in
 ### Culture-free TB whole-genome amplicon sequencing
 
 **Context**  
-Tuberculosis sequencing remains slow and infrastructure-intensive. Culture-based workflows introduce significnt delay and are poorly suited to resistance profiling in high-burden settings, limiting timely treatment decisions.
+Tuberculosis sequencing remains slow and infrastructure-intensive. Culture-based workflows introduce significant delay and are poorly suited to resistance profiling in high-burden settings, limiting timely treatment decisions.
 
 **What I built**  
 A tiled amplicon sequencing approach for *Mycobacterium tuberculosis* that enables whole-genome sequencing directly from patient sputum, without an intermediate culture step.
