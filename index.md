@@ -24,7 +24,7 @@ A tiled amplicon sequencing approach for *Mycobacterium tuberculosis* that enabl
 - Shortens time from sample to drug resistance profile, and could enable treatment tailoring
 - Supports scalable, programmatic drug-resistance surveillance
 
-<img src="/pub_figures/Kalinich_Figure1.png" alt="Kalinich et al, JCM 2025 Fig 1" width="500"/>
+<img src="/pub_figures/Kalinich_Figure1.png" alt="Kalinich et al, JCM 2025 Fig 1" width="550"/>
 
 
 **Links**  
@@ -63,7 +63,7 @@ Population admixture analyses to resolve contemporary migration patterns and tra
 - Shows occurence of admixed mosquito populations in African regions with the heaviest dengue burden
 - Informs resistance management, insecticide policy, and intervention planning
 
-<img src="/pub_figures/Crawford_Figure4.png" alt="Crawford et al, Science 2025 Fig 4" width="500"/>
+<img src="/pub_figures/Crawford_Figure4.png" alt="Crawford et al, Science 2025 Fig 4" width="550"/>
 
 **Links**  
 - [github](https://github.com/sethnr/Aaeg1200g_admixture_resistance) / [Crawford et al, Science 2025](https://www.science.org/doi/10.1126/science.ads3732) 
