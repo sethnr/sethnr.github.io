@@ -11,13 +11,13 @@ My work focuses on turning pathogen and vector genomics into **decision-grade in
 
 ## Portfolio: Selected Work
 
-### Culture-free TB whole-genome amplicon sequencing
+### Culture-free TB whole-genome sequencing and drug resistance profiling
 
 **Context**  
-Tuberculosis sequencing remains slow and infrastructure-intensive. Culture-based workflows introduce significant delay and are poorly suited to resistance profiling in high-burden settings, limiting timely treatment decisions.
+Tuberculosis sequencing remains slow and laborious. Reliable sequencing typically requires intermediate culturing, which introduces significant delay and is poorly suited to in high-burden settings, limiting the use of resistance profiling for timely treatment decisions.
 
 **What I built**  
-A tiled amplicon sequencing approach for *Mycobacterium tuberculosis* that enables whole-genome sequencing directly from patient sputum, without an intermediate culture step.
+A tiled amplicon sequencing approach for *Mycobacterium tuberculosis* that enables whole-genome sequencing directly from patient sputum, without an intermediate culture step, enabling comprehensive resistance profiling.
 
 **Why it matters**  
 - Generates high genome coverage from uncultured sputum, from even highly metagenomic samples
@@ -53,14 +53,14 @@ An end-to-end RSV genomic surveillance system integrated with a major hospital n
 ### Global migration and insecticide resistance in *Aedes aegypti*
 
 **Context**  
-Vector control strategies often assume geographically stable and genetically homogeneous mosquito populations, even as resistance spreads rapidly and intervention effectiveness declines.
+Vector control strategies often assume geographically stable and genetically homogeneous mosquito populations, even as resistance spreads rapidly and intervention effectiveness declines. Aedes is known to exhibit two subspecies, with the global (non-African) form thought to have a higher capacity to transmit arboviruses.
 
 **What I built**  
-Population admixture analyses to resolve contemporary migration patterns and track the global spread of pyrethroid resistance alleles in *Aedes aegypti*.
+Population admixture analyses between African and global populations to resolve contemporary migration patterns and track the global spread of pyrethroid resistance alleles in *Aedes aegypti*.
 
 **Why it matters**  
 - Reveals extensive contemporary mosquito migration, explaining the rapid dissemination of resistance variants
-- Shows occurence of admixed mosquito populations in African regions with the heaviest dengue burden
+- Admixed mosquito populations are found in African regions with the heaviest dengue burden.
 - Informs resistance management, insecticide policy, and intervention planning
 
 <img src="/pub_figures/Crawford_Figure4.png" alt="Crawford et al, Science 2025 Fig 4" width="550"/>
@@ -74,10 +74,10 @@ Population admixture analyses to resolve contemporary migration patterns and tra
 ### Malaria transmission network inference
 
 **Context**  
-As malaria transmission declines, elimination efforts increasingly depend on identifying who is infecting whom and distinguishing local transmission from importation—questions that traditional epidemiology alone cannot resolve.
+Almost all genomic epidemiology approachs for *P. falciparum* rely on pairwise relatedness, however as malaria transmission declines, these methods become less applicable, just at the point where elimination efforts depend on identifying who is infecting whom. 
 
 **What I built**  
-Genomic epidemiology methods combining wet-lab and computational approaches to increase variant calling fidelity and infer individual-level transmission networks for *Plasmodium falciparum*.
+Genomic epidemiology methods combining wet-lab and computational approaches to increase variant calling fidelity and using genetic distance from *de novo* mutations to infer individual-level transmission networks for *Plasmodium falciparum*.
 
 **Why it matters**  
 - Enables reconstruction of transmission networks at fine scale
