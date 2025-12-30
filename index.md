@@ -1,10 +1,12 @@
 Public-health and biomedical decisions increasingly depend on converting genomic data into **actionable evidence**.  I develop and implement genomic methods that bridge research and real-world use, spanning **culture-free TB sequencing and resistance prediction**, **respiratory pathogen surveillance**, and **vector and malaria population genomics**.
 
-My work focuses on turning pathogen and vector genomics into **decision-grade inputs** for surveillance, intervention planning, and disease control—across both **pharma / real-world evidence** and **global health implementation** contexts.
+My work focuses on turning pathogen and vector genomics into **decision-grade inputs** for surveillance, intervention planning, and disease control—across both **pharma / real-world evidence** and **global health implementation** contexts. 
 
-**Applied across:**
+Applied across:
+
 - **Pharma & RWE:** resistance biomarkers, genomic surveillance, post-licensure monitoring  
 - **Global health:** national surveillance systems, vector control strategy, TB and malaria program support
+  
 ---
 
 ## What I Build
